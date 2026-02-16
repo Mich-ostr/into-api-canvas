@@ -5,7 +5,7 @@
     background-color: #d3d3d3; /* Gris claro */
 
     /* Borde que combina con el color del rectángulo */
-    border: 3px solid #2fb8a8;
+    border: 3px solid #76d1ae;
 
     /* Esquinas más redondeadas */
     border-radius: 20px;
@@ -16,5 +16,7 @@
     /* Transición suave por si luego agregas efectos */
     transition: all 0.3s ease;
 
-    
+    /* merora comportamiento visual*/
+    display: block;
+    margin: 30px auto; /* centrado horizontal*/
 }
