@@ -23,9 +23,9 @@ El canvas ocupa el **50% del ancho y 50% del alto de la pantalla**, tiene un dis
 
 ## 📂 Estructura del proyecto
 
-/mi_proyecto
+/INTRO-APPI-CANVAS
 │── index.html
-│── estilos.css
+│── styles.css
 │── script.js
 │── README.md
 
