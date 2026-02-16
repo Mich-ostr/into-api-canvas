@@ -1,0 +1,20 @@
+/* ------------------------------------------
+   Estilo del canvas
+------------------------------------------- */
+#lienzo {
+    background-color: #d3d3d3; /* Gris claro */
+
+    /* Borde que combina con el color del rectángulo */
+    border: 3px solid #2fb8a8;
+
+    /* Esquinas más redondeadas */
+    border-radius: 20px;
+
+    /* Sombra moderna y suave */
+    box-shadow: 8px 10px 25px rgba(0, 0, 0, 0.2);
+
+    /* Transición suave por si luego agregas efectos */
+    transition: all 0.3s ease;
+
+    
+}
